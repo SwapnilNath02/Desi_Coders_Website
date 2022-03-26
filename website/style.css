@@ -1,0 +1,92 @@
+body
+{
+    display: block;
+    margin: 0%;
+}
+h1,#a
+{
+    margin: 0%;
+    font-family: 'Algerian';
+    font-size: 50px;
+    color :#b7e708;
+    text-align: center;
+    text-shadow: 6px 6px 7px black;
+    padding: 20px 20px;
+}
+h2
+{
+    font-size: 35px !important;
+    text-align: center;
+    color:rgba(19, 247, 114, 0.89);
+}
+#mem
+{
+    color:rgba(255, 0, 0, 0.89);
+    text-shadow: 5px 5px 6px rgb(56, 5, 49);
+}
+a:link
+{
+    color: #2b9ae4;
+}
+a:hover
+{
+    font-size: 15px;
+    color: rgba(17, 51, 247, 0.89);
+    font-weight: 900;
+}
+h3
+{
+    color: #d41919;
+    text-shadow: 3px 4px 5px rgb(238, 49, 197);
+    font-size: 25px;
+}
+body
+{
+    background: rgba(255, 255, 255, 0) url("SjTECV.jpg") no-repeat center; /* 87540.webp */
+    background-size: cover;
+    background-attachment: fixed;
+}
+.hi:hover
+{
+    font-size: 16px !important;
+    color: rgb(32, 60, 219);
+}
+#head
+{
+    background-image: url("sunset-5249480_960_720.jpg");
+    background-size: 100%;
+}
+.container
+{
+    position: relative;
+    width: 1200px;
+    height: 300px;
+    margin: 0 auto;
+    font-weight: 900;
+}
+.container .box
+{
+    position: relative;
+    width: 30%;
+    height: 350px;
+    float: left;
+    margin: 15px;
+    background-color: rgb(247, 244, 67);
+    opacity: .8;
+    box-sizing: border-box;
+    overflow: auto;
+    border-radius: 10px;
+    text-align: center;
+    padding-right: 25px ; 
+    border: 3px solid black;
+    color:rgb(0, 0, 0);
+    font-weight: 900;
+    font-size: 17px;
+}
+.container .box:hover
+{
+    background-color: lightgreen;
+    cursor: pointer;
+    box-shadow: 3px 3px rgb(0, 0, 0);
+    
+}
