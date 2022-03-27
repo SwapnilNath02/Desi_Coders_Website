@@ -1,3 +1,8 @@
+@font-face {
+    font-family: mononoki;
+    src: url(./fonts/mononoki-Regular\ Nerd\ Font\ Complete\ Mono.ttf);
+}
+
 body
 {
     display: block;
@@ -6,7 +11,7 @@ body
 h1,#a
 {
     margin: 0%;
-    font-family: 'Algerian';
+    font-family: 'mononoki';
     font-size: 50px;
     color :#b7e708;
     text-align: center;
